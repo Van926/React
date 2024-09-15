@@ -1,0 +1,21 @@
+.aboutContainer{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#about{
+    text-align: center;
+    margin: -5px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    
+}
+#about h1{
+    font-size: 25px;
+    align-items: center;
+
+
+}
+    
+

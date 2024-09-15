@@ -4,7 +4,7 @@ import './contacts.css'
 const Contact = () => {
     return (
         <div id="ContactPage">
-            <h1>Contact Me</h1>
+            <h1>CONTACT ME</h1>
             <span className="ContactDesc">Please fill out the form to contact me</span>
             <form className="ContactForm">
                 <input type="Text" className="name"  placeholder="Your Name"/>
@@ -12,7 +12,7 @@ const Contact = () => {
                 <textarea className="msg" name="message" rows='4' placeholder="Message"></textarea>
                 <button type="submit" value='send' className="SubmitBtn">Submit</button>
             </form>
-            <h2>Copyright Naldoza @ 2024</h2>
+            <h2>COPYRIGHT Naldoza @ 2024</h2>
         </div>
     )
 }

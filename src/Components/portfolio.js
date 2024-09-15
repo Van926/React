@@ -6,7 +6,7 @@ import hotel from './Images/hotel.jpg'
 const Portfolio = () => {
     return (
     <div className="portfolio" id="Portfolio">
-        <h1>My portfolio</h1>
+        <h1>MY PORTFOLIO</h1>
         <div className="portfoliorow">
             <div className="portfoliocolumn">
                 <img src={atm} alt="testing"className="Imgs"/>

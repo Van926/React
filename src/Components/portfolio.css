@@ -1,11 +1,12 @@
 .portfolio{
     margin-top: 200px;
     color: #000000;
- 
+    margin-bottom: 50px;
  }
  .portfolio h1{
-     text-align: center;
-     color: #ffffff;
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
  }
  .portfoliorow {
   display: flex;
